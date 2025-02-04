@@ -1,0 +1,15 @@
+.amount {
+    margin-top: 2rem !important;
+}
+.states {
+    margin-top: 2rem;
+}
+.row {
+    flex-wrap: nowrap;
+    padding-left: 10px;
+}
+div.row {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
